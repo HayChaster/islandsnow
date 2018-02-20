@@ -3,5 +3,9 @@
   box-shadow: none;
   border: none;
   font-family: "Times New Roman";
-
+}
+.ui.borderless.middle.menu{
+  box-shadow: none;
+  border: none;
+  font-family: "Times New Roman";
 }
